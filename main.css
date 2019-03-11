@@ -1,0 +1,20 @@
+.topnav {
+  font-weight: lighter;
+  font-size: 30px;
+  letter-spacing: 0px;
+  margin-top: 0px;
+}
+
+.about_byggfirma {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 20px;
+  float: left;
+  padding: 20px;
+}
+
+.logo {
+  margin: 0px, 0px, 0px, 0px;
+}
